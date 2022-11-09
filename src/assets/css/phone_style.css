@@ -44,6 +44,7 @@ img {
 
 .item_heading {
     font-weight: bold;
+    padding-bottom: 1rem;
 }
 
 #item_info {
