@@ -1,0 +1,56 @@
+body {
+
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#header {
+    display: flex;
+    display: flex;
+    flex-direction: column;
+
+}
+#name {
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+img {
+    align-self: center;
+    border-radius: 1rem;
+}
+
+.section_heading {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+        
+#list {
+    display: grid;
+}
+
+.item {
+    padding: 1rem;
+}
+
+.item_heading {
+    font-weight: bold;
+}
+
+#item_info {
+
+}
+
+#contact_section {
+    display: flex;
+    /* background-color: pink; */
+}
